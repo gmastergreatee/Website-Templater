@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "[M]en-[I]n-[T]ie",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^5.2.0",
     "electron": "^9.0.5",
