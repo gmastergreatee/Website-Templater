@@ -1,0 +1,26 @@
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/view/css"
+        }
+    ],
+    "liveServer.settings.port": 33455,
+    "liveServer.settings.root": "/view",
+    "liveServer.settings.NoBrowser": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        "**/*.map": true,
+
+        ".gitignore": true,
+        "dist": true,
+        "view/css": true,
+        "view/js": true,
+    }
+}
